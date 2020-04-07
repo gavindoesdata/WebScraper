@@ -1,6 +1,7 @@
-urllib3==1.24.1
-seaborn==0.10.0
-pandas==1.0.3
-palettable==3.1.0
-numpy==1.18.2
-matplotlib==3.2.1
+urllib3
+seaborn
+pandas
+palettable
+numpy
+matplotlib
+bs4
